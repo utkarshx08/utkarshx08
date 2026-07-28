@@ -178,7 +178,7 @@ HTML • CSS • JavaScript
 - ✅ Master React.js
 - ✅ Learn Next.js
 - ✅ Build Full Stack Projects
-- ✅ Solve 500+ DSA Problems
+- ✅ Solve 200+ DSA Problems
 - ✅ Contribute to Open Source
 
 ---
