@@ -225,41 +225,6 @@
 
 ---
 
-# 💻 Coding Profiles
-
-### LeetCode
-
-```markdown
-https://leetcode.com/YOUR_USERNAME
-```
-
-### GeeksforGeeks
-
-```markdown
-https://auth.geeksforgeeks.org/user/YOUR_USERNAME
-```
-
-### HackerRank
-
-```markdown
-https://www.hackerrank.com/YOUR_USERNAME
-```
-
----
-
-# 🎵 Spotify
-
-```markdown
-https://spotify-github-profile.vercel.app/
-```
-
----
-
-# 🏅 Holopin
-
-```markdown
-https://holopin.io/@YOUR_USERNAME
-```
 
 ---
 
@@ -275,7 +240,7 @@ https://holopin.io/@YOUR_USERNAME
 # 🎯 2026 Goals
 
 - 🚀 Become a Full Stack MERN Developer
-- 📚 Solve 500+ DSA Problems
+- 📚 Solve 200+ DSA Problems
 - 🤖 Build AI-powered Applications
 - 🌍 Contribute to Open Source
 - ☁️ Learn Cloud Computing
