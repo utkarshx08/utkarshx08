@@ -1,45 +1,143 @@
-<h1 align="center">Hi 👋, I'm Suryansh Tyagi</h1>
-<h3 align="center">Software Engineer | Frontend Developer | MERN Stack Learner | Problem Solver</h3>
+<!-- ========================================= -->
+<!--            Animated Header                -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+Developer;JavaScript+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,100:8A2BE2&text=Suryansh%20Tyagi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20AI%20%26%20IoT%20Enthusiast&descAlignY=60"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Suryansh Tyagi</h1>
+
+<h3 align="center">
+💻 Software Engineer • MERN Stack Developer • AI • IoT • Robotics Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer;MERN+Stack+Developer;Frontend+Developer;AI+%26+Automation+Enthusiast;IoT+%26+Drone+Technology;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech in Electronics & Communication Engineering
 
-💻 Passionate about Software Development & Web Technologies
+💻 Passionate about software engineering, full-stack development, AI-powered applications, and IoT.
 
-🌱 Currently learning **MERN Stack** and **Data Structures & Algorithms**
+🌱 **Currently Learning**
 
-🎯 Interested in Frontend Development, Full Stack Development, and Software Engineering
+- MERN Stack
+- Data Structures & Algorithms
+- System Design
+- Cyber Security
+- Cloud Computing
 
-⚡ Love building responsive websites and solving real-world problems through code
+🎯 **Interested In**
+
+- Full Stack Development
+- Artificial Intelligence
+- Agentic AI
+- IoT & Robotics
+- Drone Technology
+- Open Source
+
+> *"Code with consistency. Learn with curiosity. Build with purpose."*
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+### 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,react.js,express,js,c,mongo db," />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql"/>
 </p>
 
-### Frameworks & Libraries
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,sql,mongodb" />
+### ⚛️ Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
 </p>
 
-### Tools & Technologies
+- React.js
+- Responsive Design
+- CSS Grid & Flexbox
+- DOM Manipulation
+- REST API Integration
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,antigravity" />
+---
+
+### 🚀 Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
+
+- Node.js
+- Express.js
+- REST APIs
+
+---
+
+### 🗄 Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+- MongoDB
+- MongoDB Compass
+- MySQL
+- SQL
+
+---
+
+### 🤖 AI & Agentic AI
+
+- AI Agents
+- Prompt Engineering
+- Agentic AI Workflows
+- ChatGPT
+- Claude AI
+- Google Gemini
+- GitHub Copilot
+
+---
+
+### 🛰 Robotics & IoT
+
+- Arduino
+- Embedded Systems
+- IoT
+- Robotics
+- Drone Calibration
+- Flight Controller Configuration
+- Sensor Integration
+- Automation Systems
+
+---
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,arduino,mongodb"/>
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- npm
+- MongoDB Compass
+- MySQL Workbench
+- AntiGravity IDE
+- Cursor AI
+- ChatGPT
+- Claude AI
+- Google Gemini
+- GitHub Copilot
 
 ---
 
@@ -49,26 +147,19 @@
 
 - Modern Gaming UI
 - Responsive Design
-- CSS Grid & Flexbox
 - Interactive Animations
-- Mobile Friendly
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ## 📄 AI Resume Analyzer
 
 - Resume Parsing
-- ATS-Friendly Analysis
-- Resume Score Generation
-- Modern UI
+- ATS Analysis
+- Resume Scoring
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
@@ -76,38 +167,26 @@ HTML • CSS • JavaScript
 
 - Netflix-inspired UI
 - Responsive Layout
-- Modern CSS
-- Interactive Components
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ## 🌐 Personal Portfolio Website
 
 - Professional Portfolio
-- Skills Showcase
-- Projects
 - Resume Timeline
-- Blog Section
-- Contact Form
+- Project Showcase
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarshx08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshx08&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=utkarshx08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshx08&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -115,9 +194,15 @@ HTML • CSS • JavaScript
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshx08&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshx08&theme=tokyo-night"/>
 </p>
 
 ---
@@ -125,78 +210,109 @@ HTML • CSS • JavaScript
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=utkarshx08&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshx08&theme=tokyonight&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
-<p align="center">
+> Enable this after adding the GitHub Action.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshx08&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/suryansh-tyagi-utkarsh11234">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:suryanshtyagi2006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/utkarshx08">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+```html
+<img src="https://raw.githubusercontent.com/utkarshx08/utkarshx08/output/github-contribution-grid-snake-dark.svg"/>
+```
 
 ---
 
-# 💡 Currently Working On
+# 💻 Coding Profiles
 
-- 🚀 MERN Stack Projects
-- 💻 Data Structures & Algorithms
-- 🎨 Advanced Frontend Development
-- 📱 Responsive UI Design
-- ⚡ Open Source Contributions
+### LeetCode
+
+```markdown
+https://leetcode.com/YOUR_USERNAME
+```
+
+### GeeksforGeeks
+
+```markdown
+https://auth.geeksforgeeks.org/user/YOUR_USERNAME
+```
+
+### HackerRank
+
+```markdown
+https://www.hackerrank.com/YOUR_USERNAME
+```
+
+---
+
+# 🎵 Spotify
+
+```markdown
+https://spotify-github-profile.vercel.app/
+```
+
+---
+
+# 🏅 Holopin
+
+```markdown
+https://holopin.io/@YOUR_USERNAME
+```
+
+---
+
+# 📜 Certifications
+
+- MERN Stack *(In Progress)*
+- MongoDB *(Planned)*
+- Cyber Security *(Learning)*
+- IoT & Robotics *(Project Experience)*
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Crack Software Engineering Internship
-- ✅ Master React.js
-- ✅ Learn Next.js
-- ✅ Build Full Stack Projects
-- ✅ Solve 200+ DSA Problems
-- ✅ Contribute to Open Source
+- 🚀 Become a Full Stack MERN Developer
+- 📚 Solve 500+ DSA Problems
+- 🤖 Build AI-powered Applications
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud Computing
+- 💼 Secure a Software Engineering Role
 
 ---
 
+# 🌐 Connect With Me
+
 <p align="center">
+<a href="https://github.com/utkarshx08"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://www.linkedin.com/in/suryansh-tyagi-utkarsh11234"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:suryanshtyagi2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
-### 👀 Profile Visitors
+---
 
-<img src="https://komarev.com/ghpvc/?username=utkarshx08&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+# 👀 Profile Views
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=utkarshx08&style=for-the-badge&color=blueviolet"/>
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
 <p align="center">
+⭐ **If you like my work, consider starring my repositories!** ⭐
+</p>
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2"/>
 </p>
