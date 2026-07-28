@@ -26,19 +26,19 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,react.js,express,js,c,mongo db," />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,sql,mongodb" />
 </p>
 
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,antigravity" />
 </p>
 
 ---
