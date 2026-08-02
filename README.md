@@ -181,6 +181,46 @@
 **Tech:** HTML • CSS • JavaScript
 
 ---
+# 💻 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Suryanshx08/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://leetcard.jacoblin.cool/Suryanshx08?theme=dark&font=Poppins&ext=contest"/>
+
+<img width="48%" src="https://leetcard.jacoblin.cool/Suryanshx08?theme=dark&font=Poppins&ext=heatmap"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Consistency-Daily%20Practice-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Goal-Software%20Engineer-purple?style=for-the-badge"/>
+
+</p>
+
+### 🧠 Areas of Focus
+
+- 📚 Data Structures & Algorithms
+- 🧩 Problem Solving
+- ⚡ Time & Space Complexity Optimization
+- 🌳 Trees & Graphs
+- 🔗 Linked Lists
+- 📦 Dynamic Programming
+- 🏆 Coding Interview Preparation
+- 💻 Competitive Programming
+
+> *"Every problem solved is another step toward becoming a better software 
 
 # 📊 GitHub Analytics
 
@@ -219,9 +259,9 @@
 
 > Enable this after adding the GitHub Action.
 
-```html
+html
 <img src="https://raw.githubusercontent.com/utkarshx08/utkarshx08/output/github-contribution-grid-snake-dark.svg"/>
-```
+
 
 ---
 
@@ -265,46 +305,7 @@
 </p>
 
 ---
-# 💻 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Suryanshx08/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://leetcard.jacoblin.cool/Suryanshx08?theme=dark&font=Poppins&ext=contest"/>
-
-<img width="48%" src="https://leetcard.jacoblin.cool/Suryanshx08?theme=dark&font=Poppins&ext=heatmap"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Consistency-Daily%20Practice-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Goal-Software%20Engineer-purple?style=for-the-badge"/>
-
-</p>
-
-### 🧠 Areas of Focus
-
-- 📚 Data Structures & Algorithms
-- 🧩 Problem Solving
-- ⚡ Time & Space Complexity Optimization
-- 🌳 Trees & Graphs
-- 🔗 Linked Lists
-- 📦 Dynamic Programming
-- 🏆 Coding Interview Preparation
-- 💻 Competitive Programming
-
-> *"Every problem solved is another step toward becoming a better software engineer."*
+engineer."*
 ---
 # 💬 Random Dev Quote
 
