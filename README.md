@@ -231,19 +231,11 @@
 
 ---
 
-# 🔥 GitHub Streak
+## GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshx08&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/utkarshx08)
 
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshx08&theme=tokyo-night"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=utkarshx08)](https://github.com/utkarshx08)
 
 ---
 
@@ -322,8 +314,4 @@ engineer."*
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,100:8A2BE2"/>
 </p>
-## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/utkarshx08)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=utkarshx08)](https://github.com/utkarshx08)
