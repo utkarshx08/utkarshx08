@@ -143,42 +143,82 @@
 
 # 🚀 Featured Projects
 
-## 🎮 Responsive Gaming Tournament Website
+# 🚀 Featured Projects
 
-- Modern Gaming UI
-- Responsive Design
-- Interactive Animations
-
-**Tech:** HTML • CSS • JavaScript
+\<p align="center">
+&#x20; \<b>Some of my key projects focused on real-world problem solving, full-stack development, automation, and modern web technologies.\</b>
+\</p>
 
 ---
 
-## 📄 AI Resume Analyzer
+## 🚘 1. Auto Fleet – Smart Fleet Management System
 
-- Resume Parsing
-- ATS Analysis
-- Resume Scoring
+- Real-time vehicle GPS tracking and location monitoring.
+- Geofencing with location-based alerts.
+- Vehicle maintenance and service scheduling.
+- Fuel purchase and expense management.
+- Fleet performance analytics and reporting.
+- Centralized vehicle and driver management.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack:** React.js • JavaScript • Node.js • Express.js • Database • GPS Integration
 
----
-
-## 🎬 Netflix Landing Page Clone
-
-- Netflix-inspired UI
-- Responsive Layout
-
-**Tech:** HTML • CSS • JavaScript
+**Repository:** [View Project](https://github.com/utkarshx08)
 
 ---
 
-## 🌐 Personal Portfolio Website
+## 💪 2. FitFuel – Fitness & Nutrition Tracking Platform
 
-- Professional Portfolio
-- Resume Timeline
-- Project Showcase
+- Daily calorie and macronutrient tracking.
+- Detailed micronutrient monitoring.
+- Food diary with nutritional information.
+- Workout tracking and exercise history.
+- Body weight tracking with progress graphs.
+- Fitness analytics and progress heatmaps.
+- Cloud-based data persistence using Supabase.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack:** React.js • JavaScript • Supabase • SQL • CSS
+
+**Repository:** [View Project](https://github.com/utkarshx08)
+
+---
+
+## 💳 3. Nova Pay – Digital Finance Management Platform
+
+- Modern and responsive financial dashboard.
+- User authentication and account management.
+- Transaction management.
+- MySQL database integration.
+- Financial activity tracking.
+- Organized payment and transaction records.
+
+**Tech Stack:** JavaScript • React.js • Node.js • Express.js • MySQL
+
+**Repository:** [View Project](https://github.com/utkarshx08/nova-pay)
+
+---
+
+## 🌐 4. Virtual Portfolio – Personal Portfolio Website
+
+- Modern and responsive portfolio interface.
+- Professional introduction and personal profile.
+- Interactive project showcase.
+- Skills and technology presentation.
+- Education and experience timeline.
+- Contact section for professional networking.
+- Clean UI with smooth navigation and animations.
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript
+
+**Repository:** [View Project](https://github.com/utkarshx08)
+
+---
+
+\<p align="center">
+
+
+&#x20; \<i>💡 Building practical applications through creativity, consistency, and continuous learning.\</i>
+\</p>
+
 
 ---
 # 💻 LeetCode
