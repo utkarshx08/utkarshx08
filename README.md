@@ -143,12 +143,6 @@
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-\<p align="center">
-&#x20; \<b>Some of my key projects focused on real-world problem solving, full-stack development, automation, and modern web technologies.\</b>
-\</p>
-
 ---
 
 ## 🚘 1. Auto Fleet – Smart Fleet Management System
@@ -213,12 +207,6 @@
 
 ---
 
-\<p align="center">
-
-
-&#x20; \<i>💡 Building practical applications through creativity, consistency, and continuous learning.\</i>
-\</p>
-
 
 ---
 # 💻 LeetCode
@@ -262,12 +250,7 @@
 
 > *"Every problem solved is another step toward becoming a better software 
 
-# 📊 GitHub Analytics
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=utkarshx08&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshx08&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -277,25 +260,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=utkarshx08)](https://github.com/utkarshx08)
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=utkarshx08&theme=tokyonight&row=1&column=7&no-frame=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable this after adding the GitHub Action.
-
-html
-<img src="https://raw.githubusercontent.com/utkarshx08/utkarshx08/output/github-contribution-grid-snake-dark.svg"/>
-
-
----
 
 
 ---
